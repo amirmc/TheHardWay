@@ -14,5 +14,5 @@ print "He's got %s eyes and %s hair." % (my_eyes, my_hair)
 print "His teeth are usually %s depending on the coffee." % my_teeth
 
 # this line is tricky, try to get it exactly right
-print "If I add {0:d}, {1:d}, and {2:d} I get {3:d}.".format(my_age, my_height, my_weight,
-                                                             my_age + my_height + my_weight)
+print "If I add %d, %d, and %d I get %d." % (
+    my_age, my_height, my_weight, my_age + my_height + my_weight)
