@@ -9,6 +9,6 @@ print formatter % (formatter, formatter, formatter, formatter)
 print formatter % (
     "I had this thing.",
     "That you could type up right.",
-    "But it didn't sing.",
+    "But it didn't sing.",  # AC: This line outputs in a different format to the other 3
     "So I said goodnight."
 )
