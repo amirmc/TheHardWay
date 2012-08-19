@@ -1,4 +1,5 @@
 ## Learn Python the Hard Way
 
-This is me trying to learn too much at once i.e skimming through Zed Shaw's Python course while figuring out how to use Git and GitHub.
-Seems to be going ok so far though I managed to get completely distracted from the course itself :)
+Trying to get through the whole course by end of October now.  I'm pretty comfortable with Git now so that shouldn't be an issue (or distraction).
+
+Will need to learn OCaml next. :)
